@@ -1,0 +1,26 @@
+#header{
+    font-size: 30px;
+font-style: oblique;
+}
+
+#note{
+color: black;
+font-size: 20px;
+}
+   canvas{
+        border: 5px groove black;
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px white;
+        
+    }
+
+    .footer{
+        width: 100%;
+        background-color: blanchedalmond;
+        font-style: oblique;
+        position: fixed;
+        color: blue;
+        bottom: 0;
+        text-align: center;
+        box-shadow: 5px 5px 5px black;
+    }
